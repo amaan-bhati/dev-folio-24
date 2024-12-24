@@ -128,7 +128,7 @@ export default function Page() {
         </div>
       </section>
 
-      {/* <section id="images" className="py-1">
+       <section id="images" className="py-1">
         <BlurFade delay={BLUR_FADE_DELAY * 3}>
           <div className="grid grid-cols-2 gap-3 md:grid-cols-4">
             <div className="overflow-hidden rounded-lg border">
@@ -158,7 +158,7 @@ export default function Page() {
             </div>
           </div>
         </BlurFade>
-      </section> */}
+      </section>
 
       <section id="about">
         <BlurFade delay={BLUR_FADE_DELAY * 3}>
