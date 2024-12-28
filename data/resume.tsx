@@ -10,7 +10,7 @@ export const DATA = {
   location: "Bangalore, India",
   locationLink: "https://www.google.com/maps/place/bangalore",
   description:
-    "The personal website of Amaan Bhati, a 22-year-old web and software developer. This platform showcases his expertise in web development, software engineering, AI, blockchain, and other advanced technologies. Explore his portfolio of innovative projects, gain insights from his technical blogs, and discover his approach to solving complex problems. Whether you're a business, startup, or collaborator, connect with Amaan for impactful software development solutions tailored to your needs.",
+    "A 22 year old CS undergrad with experience in web and Software Developer of more than 2 years, aspiring a fulltime software dev role.",
   summary:
     "Result driven final year Computer Science student with a strong aptitude for development and proficiency in modern frameworks. Eager to contribute technical skills and innovation to a dynamic software engineering role in a cutting-edge tech environment. Recognized for being a quick learner with the ability to swiftly adapt to new technology stacks",
   avatarUrl: "/me.webp",
