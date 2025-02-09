@@ -99,10 +99,23 @@ export const DATA = {
 
   work: [
     {
+      company: "Keploy", 
+      href: "https://keploy.io",
+      badges: [],
+      location: "On-Site",
+      title: "Devrel Engineer",
+      logoUrl: "/keploy-logo.png",
+      start: "Feb 2025",
+      end: "Present",
+      description:
+        "",
+    },
+
+    {
       company: "KIIT Digital",
       href: "https://kiit.ac.in",
       badges: [],
-      location: "Om-Site",
+      location: "On-Site",
       title: "Web and Software intern",
       logoUrl: "/kiit-logo.webp",
       start: "Feb 2024",
