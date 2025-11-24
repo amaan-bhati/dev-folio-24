@@ -96,7 +96,7 @@ export default function Page() {
                     </button>
                   </Link>
                   <Link
-                    href="https://blog.amaanbhati.tech"
+                    href="https://blog.amaanbhati.cloud"
                     rel="noopener noreferrer"
                   >
                     <button className="px-3 py-1 text-sm font-medium text-foreground bg-background border border-foreground rounded hover:bg-foreground hover:text-background transition-colors">
